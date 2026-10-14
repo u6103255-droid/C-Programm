@@ -1,0 +1,21 @@
+01
+/u/prof/dfiguls/Public/mobilitatCurt.csv
+07
+-2
+Barcelonès
+Barcelonés
+08
+-3
+Barcelonès
+Barcelonès
+Autobús TMB
+09
+-5
+9
+Barcelonès
+Barcelonès
+10
+-3
+Barcelonès
+Barcelonès
+0
